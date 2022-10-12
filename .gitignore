@@ -1,0 +1,6 @@
+.coverage
+.env
+.vscode
+.envrc
+node_modules
+dist
